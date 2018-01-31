@@ -1,0 +1,14 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item
+    android:id="@+id/trending"
+    app:showAsAction="always"
+    android:title="Trending"/>
+<item
+    android:id="@+id/about"
+    android:title="About">
+</item>
+
+</menu>
